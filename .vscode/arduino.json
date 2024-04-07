@@ -1,0 +1,6 @@
+{
+    "sketch": "pedalShield_uno_ROATARY_2024.ino",
+    "board": "arduino:avr:uno",
+    "port": "/dev/ttyACM0",
+    "programmer": "usbtinyisp"
+}
