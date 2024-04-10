@@ -10,8 +10,8 @@
  https://github.com/wrenchpilot
  ```
 
- Multiple effects for pedalShieldUno using a rotary encoder.
-Multiple effects for pedalShieldUno using debounced button to cycle through defined effects.
+Multiple effects for pedalShieldUno using a rotary encoder.
+
 
  * BANK 1: Flanger2 - https://www.electrosmash.com/forum/pedalshield-uno/453-7-new-effects-for-the-pedalshield-uno#1718
  * BANK 2: Up Down - https://www.electrosmash.com/forum/pedalshield-uno/453-7-new-effects-for-the-pedalshield-uno#1718
