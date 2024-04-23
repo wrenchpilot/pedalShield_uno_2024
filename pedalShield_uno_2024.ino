@@ -5,9 +5,9 @@
  * Rotary Encoder Implementation
  * James Shawn Carnley
  * https://github.com/wrenchpilot
- * 
+ *
  * Multiple effects for pedalShieldUno using a rotary encoder.
- * 
+ *
  * BANK 1: Flanger2 - https://www.electrosmash.com/forum/pedalshield-uno/453-7-new-effects-for-the-pedalshield-uno#1718
  * BANK 2: Up Down - https://www.electrosmash.com/forum/pedalshield-uno/453-7-new-effects-for-the-pedalshield-uno#1718
  * BANK 3: Daft Punk Octaver - https://github.com/ElectroSmash/pedalshield-uno
@@ -103,6 +103,8 @@ void loop() {
         // Turn on the LED if the effect is ON.
         digitalWrite(LED, HIGH);
         swapEffect();
+    } else {
+        digitalWrite(LED, LOW);
     }
 }
 
