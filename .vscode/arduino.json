@@ -1,7 +1,0 @@
-{
-    "sketch": "pedalShield_uno_2024.ino",
-    "board": "arduino:avr:uno",
-    "port": "/dev/ttyACM0",
-    "programmer": "usbtinyisp",
-    "output": "/home/sc269/builds/pedalShield_uno_2024"
-}
